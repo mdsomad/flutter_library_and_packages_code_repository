@@ -45,5 +45,8 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<!-- 👇 LocalAuthentication Add This 2 line code -->
+	<key>NSFaceIDUsageDescription</key>
+	<string>User bioneteric authentication</string>
 </dict>
 </plist>
